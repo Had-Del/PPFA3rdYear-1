@@ -8,7 +8,7 @@ public class ButtonGestion : MonoBehaviour
 {
     public void RestartButton()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("LD_Scene");
     }
 
     public void MainMenuButton()
@@ -18,7 +18,7 @@ public class ButtonGestion : MonoBehaviour
 
     public void StartButton()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("LD_Scene");
     }
 
     public void QuitButton()
