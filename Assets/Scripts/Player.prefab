@@ -344,7 +344,7 @@ MonoBehaviour:
     m_Bits: 64
   maxSlopeAngle: 65
   orientation: {fileID: 7547378578640933548}
-  _maxHealth: 100
+  _maxHealth: 200
   _health: 0
   state: 0
 --- !u!114 &7547378578431024041
@@ -360,14 +360,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   combatCamera: {fileID: 0}
-  Damages: 0
+  Damages: 5
   fireRate: 0
   _muzzle: {fileID: 7547378577776448450}
   bullet: {fileID: 4602737630878682886, guid: 6d04a71934f00d54d809975e5d1a0719, type: 3}
   tpsCam: {fileID: 0}
   attackPoint: {fileID: 7547378577776448450}
   allowInvoke: 1
-  shootForce: 2
+  shootForce: 5
   upwardForce: 0
   timeBetweenShooting: 0.25
   spread: 0

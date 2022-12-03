@@ -180,7 +180,7 @@ MonoBehaviour:
   scoreDead: 0
   scoreHit: 0
   _currentHealth: 0
-  _maxHealth: 100
+  _maxHealth: 50
   rb: {fileID: 8235474133568246324}
   currentGravity: 0
 --- !u!114 &3085748406107573118
